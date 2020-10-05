@@ -10,7 +10,7 @@ require_once('common/school_config.php');
 <!DOCTYPE HTML PUBLIC "-//W3C//Dtd HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
-<TITLE>슿기로운 학교생활 로그인
+<TITLE>슬기로운 학교생활 로그인
 </TITLE>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link type="text/css" rel="stylesheet" href="common/style.css">
